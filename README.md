@@ -1,4 +1,4 @@
-# DBMS_Project
+# DBMS Mini Project
 
 The ATM System is developed in Java swings and back-end database as Mysql.
 Java swings is the one of the powerful version of Framework and
